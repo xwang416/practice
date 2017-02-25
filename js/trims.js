@@ -1,5 +1,5 @@
 /*
-Author:Don Wanag
+Author:Don Wang
 Email: xwang416@gmail.com
 Last Update: Feb 2017
 ---------------------------------------*/
